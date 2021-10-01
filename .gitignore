@@ -130,3 +130,6 @@ dmypy.json
 
 # jetbrains IDE files
 .idea
+.DS_Store
+
+cars/clean_data/clean_data.ipynb

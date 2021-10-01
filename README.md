@@ -1,6 +1,6 @@
 # mlucu
 
-## Projects
+## Projects - WIP
 
 ### Titanic 
 
@@ -15,3 +15,7 @@
 ## Wines 
 
 [Predict wine cultivar from chemical analysis](./wines/wines.ipynb)
+
+
+## Cars
+[Predict used car price in USA](./cars/cars.ipynb)
