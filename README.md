@@ -1,4 +1,4 @@
-# Read it here -> [READ.CV](https://read.cv/npg)
+# Read it here -> [GHOST.IO](https://npguy.ghost.io/)
 
 ## Projects - WIP
 
@@ -12,4 +12,4 @@
 
 ## Bike Sharing
 
-[Predict demand on a bike sharing service](./bikes/bikes.ipynb)
+[Predict demand on a bike sharing service](./bikesV2/bikes.ipynb)
