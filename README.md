@@ -13,3 +13,7 @@
 ## Bike Sharing
 
 [Predict demand on a bike sharing service](./bikesV2/bikes.ipynb)
+
+## Penguins
+
+[Classify penguins based on their size](./penguins/penguins.ipynb)
