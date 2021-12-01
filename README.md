@@ -17,3 +17,7 @@
 ## Penguins
 
 [Classify penguins based on their size](./penguins/penguins.ipynb)
+
+## Housing
+
+[Predict housing price](./houses/houses.ipynb)
