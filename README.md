@@ -1,4 +1,4 @@
-# Read it here -> [GHOST.IO](https://npguy.ghost.io/)
+# Read it here -> [GHOST.IO](https://npguy-2.ghost.io/)
 
 ## Projects - WIP
 
