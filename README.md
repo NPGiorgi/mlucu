@@ -21,3 +21,7 @@
 ## Housing
 
 [Predict housing price](./houses/houses.ipynb)
+
+## Customer Segmentation
+
+[Find different customer segments](./mall/mall.ipynb)
